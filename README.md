@@ -1,24 +1,9 @@
-# README
+# Green Thumb
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An Urban Gardening App to help you grow your own fresh food!
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+App Features:
+* Plant Care (H2O, Sunlight)
+* Produce Care
+* Plan a garden around what you like to cook
+* Harvest Calendar
