@@ -1,0 +1,62 @@
+{"plants": [
+		{
+			"name":"Carrot",
+			"description":"Classic 6-inch roots with bright red-orange color throughout",
+			"sunlight":"Full Sun",
+			"plantHeight":"12-18in.",
+      "startIndoors":"false",
+			"locale": "Temperate",
+      "soilType":"light, well-drained sandy",
+			"fruitSize":"6in. long tubes",
+			"img":"https://www.organicfacts.net/wp-content/uploads/2013/05/Carrot1.jpg",
+			"seeds": {
+        "rowSpacing":"12 in.",
+        "plantSpacing":"2 in.",
+        "sowDepth":"quarter to half inch",
+        "outdoorPlantingDates":"Zone 2",
+        "daysToGermination":"14-21 days",
+        "daysToHarvest":"40-60 days",
+        "notes":"Sow seed directly in the garden in spring. Carrots need light, well-drained, sandy soil. Sprinkle seeds evenly in the row, about 3-4 inch. Keep soil moist during germination and growth. Thin young seedlings. Sow every 2-3 weeks until early summer for continuous supply. Harvest when rounded, orange tops appear. For easier harvest, moisten soil. In mild climates, plant again in fall and winter."
+      }
+		},
+    {
+			"name":"Tomato",
+			"description":"Large succulent red pieces of veggiefruit",
+			"sunlight":"Full Sun",
+			"plantHeight":"1-3ft.",
+      "startIndoors":"true",
+			"locale": "Temperate",
+      "soilType":"light, loose",
+			"fruitSize":"large, ~1 oz",
+			"img":"http://cdn.modernfarmer.com/wp-content/uploads/2014/08/tomato.jpg",
+			"seeds": {
+        "rowSpacing":"12 in.",
+        "plantSpacing":"2 in.",
+        "sowDepth":"quarter inch",
+        "outdoorPlantingDates":"Zone 2",
+        "daysToGermination":"8-14 days",
+        "daysToHarvest":"90-100 days",
+        "notes":"Start seeds indoors in pots or flats 5-7 weeks before planting outdoors. Transplant to a sunny, well-drained location once all danger of frost is past and the soil has warmed. Prepare bed by loosening soil, mixing in some compost, and raking smooth."
+      }
+		},
+    {
+			"name":"Green Bean",
+			"description":"chef classic pole bean",
+			"sunlight":"Full Sun",
+			"plantHeight":"12-18in.",
+      "startIndoors":"false",
+			"locale": "Temperate",
+      "soilType":"light, well-drained sandy",
+			"fruitSize":"6in. long tubes",
+			"img":"http://menuofmusings.com/wp-content/uploads/2013/12/Deep-Fried-Green-Beans.jpg",
+			"seeds": {
+        "rowSpacing":"24-36 in.",
+        "plantSpacing":"6-10 in.",
+        "sowDepth":"2 inch",
+        "outdoorPlantingDates":"Zone 2",
+        "daysToGermination":"7-14 days",
+        "daysToHarvest":"75 days",
+        "notes":"Sow in fertile soil in full sun after all danger of last spring frost and soil has armed thoroughly. Plant multiple to ensure pollination and full ear development."
+      }
+		}
+] }
